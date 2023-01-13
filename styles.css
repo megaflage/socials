@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background-color: darkslateblue;
+}
+
+.main-heading {
+  font-size: 150;
+  color: white;
+  text-align: center;
+  font-family: "poppins", sans-serif;
+  padding: ;
+}
+
+div {
+  padding-bottom: 0%;
+  padding-top: 0%;
+  border: 5px solid white;
+}
+
+.sub-heading {
+  font-size: 50;
+  color: white;
+  text-align: center;
+  font-family: "poppins", sans-serif;
+  font-style: italic;
+  line-height: -90px;
+}
